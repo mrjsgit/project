@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>CLASS SELECTORS</title>
+    <title>SELECTORS</title>
     <style>
         .introduction{
             color: blue;
