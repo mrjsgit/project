@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>CLASS SELECTORS</title>
+    <style>
+        .introduction{
+            color: blue;
+            font-style: italic;
+        font-family: 'Courier New';}
+       .heading{
+            color: greenyellow;
+            font-size: medium;
+        font-display: fallback;}
+      .SubHeading{
+            color: coral;
+            font-family: 'Arial Narrow';
+      } 
+        </style>
+        </head>
+        <body>
+            <p class ="introduction" Welcome to my website</p>
+                <h1 class="heading">Main Heading</h1>
+                <h2 class="SubHeading" > Hello all</h2>
+            </body>
